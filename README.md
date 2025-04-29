@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**yuguanhai/yuguanhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hello, I'm yuguanhai
+## 📚 Education
+Jilin University - Bachelor's Degree
+Sep 2020 - Jun 2024
+Sun Yat - sen University - Master's Degree
+Sep 2024 - Present
+## 💼 Work Experience
+Dataoceanai - Backend Development Intern
+Mar 2024 - Apr 2024
+ByteDance - Backend Development Intern
+Apr 2025 - Present
+## 🌟 Skills
+Programming Languages: Proficient in Java. Familiar with Golang and Python.
+Frameworks: Have experience with SpringBoot, FastAPI.
+Database: Skilled in MySQL, Redis.
