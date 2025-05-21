@@ -14,6 +14,9 @@ Dataoceanai - Backend Development Intern
 
 Mar 2024 - Apr 2024
 
+ByteDance - Backend Development Intern
+
+Apr 2025 - Now
 
 ## 🌟 Skills
 Programming Languages: Proficient in Java. Familiar with Golang and Python.
