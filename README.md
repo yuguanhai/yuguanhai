@@ -21,6 +21,6 @@ Apr 2025 - Now
 ## 🌟 Skills
 Programming Languages: Proficient in Java. Familiar with Golang and Python.
 
-Frameworks: Have experience with SpringBoot, FastAPI.
+Frameworks: Have experience with SpringBoot, FastAPI, Hertz.
 
-Database: Skilled in MySQL, Redis.
+Database: Skilled in MySQL, Redis, MongoDB.
