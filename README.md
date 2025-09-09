@@ -9,14 +9,14 @@ Sun Yat - sen University - Master's Degree
 
 Sep 2024 - Present
 
-## 💼 Work Experience
+## 💼 Internship Experience
 Dataoceanai - Backend Development Intern
 
 Mar 2024 - Apr 2024
 
 ByteDance - AI Agent Backend Development Intern
 
-Apr 2025 - Now
+Apr 2025 - Sep 2025
 
 ## 🌟 Skills
 Programming Languages: Proficient in Java. Familiar with Golang and Python.
