@@ -14,13 +14,17 @@ Dataoceanai - Backend Development Intern
 
 Mar 2024 - Apr 2024
 
-ByteDance - AI Agent Backend Development Intern
+ByteDance - AI Agent Development Intern
 
 Apr 2025 - Sep 2025
 
+Alibaba Cloud - LLM Algorithm Intern
+
+Apr 2026 - Present
+
 ## 🌟 Skills
-Programming Languages: Proficient in Java. Familiar with Golang and Python.
+Programming languages: Java / Golang / Python.
 
-Frameworks: Have experience with SpringBoot, FastAPI, Hertz.
+Engineering capability: Familiar with backend development frameworks and middleware, with experience in Agent setup, MCP tool development, and Prompt tuning.
 
-Database: Skilled in MySQL, Redis, MongoDB.
+Algorithm capability: Proficient in the fundamentals of LLMs and post-training algorithms, including SFT and RL.
