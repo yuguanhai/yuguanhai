@@ -20,7 +20,7 @@ Apr 2025 - Sep 2025
 
 Alibaba Cloud - LLM Algorithm Intern
 
-Apr 2026 - Present
+Apr 2026 - Sep 2026
 
 ## 🌟 Skills
 Programming languages: Java / Golang / Python.
